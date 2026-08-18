@@ -23,9 +23,10 @@ https://github.com/Apicurio/apicurio-registry/issues?q=author%3Asahu-virendra-19
 
 | # | Pull Request Title                                                        | Status                  | Category                           | Pull Request Link                                       |
 | - | ------------------------------------------------------------------------- | ----------------------- | ---------------------------------- | ------------------------------------------------------- |
-| 1 | fix(gitops): load validation tasks from disk across replicas              | Draft / Under Review 🔄 | GitOps / Multi-Replica Reliability | https://github.com/Apicurio/apicurio-registry/pull/9624 |
-| 2 | Read-only mode does not properly intercept usage-event storage operations | Draft / Under Review 🔄 | Storage / Read-Only Mode           | https://github.com/Apicurio/apicurio-registry/pull/9598 |
-| 3 | fix(kafkasql): fail when response timeout expires                         | Open / Under Review 🔄  | KafkaSQL / Timeout Handling        | https://github.com/Apicurio/apicurio-registry/pull/9578 |
+| 1 | fix(kafkasql): fail when response timeout expires                         | completed  | KafkaSQL / Timeout Handling        | https://github.com/Apicurio/apicurio-registry/pull/9578 |
+| 2 | fix(gitops): load validation tasks from disk across replicas              | Draft / Under Review 🔄 | GitOps / Multi-Replica Reliability | https://github.com/Apicurio/apicurio-registry/pull/9624 |
+| 3 | Read-only mode does not properly intercept usage-event storage operations | Draft / Under Review 🔄 | Storage / Read-Only Mode           | https://github.com/Apicurio/apicurio-registry/pull/9598 |
+
 
 ---
 
